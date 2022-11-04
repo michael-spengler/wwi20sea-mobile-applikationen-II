@@ -16,6 +16,7 @@ W3WI_SE432.2
 [Kotlin](https://www.youtube.com/watch?v=cxm9AHNDMPI) - [in 100 seconds](https://www.youtube.com/watch?v=xT8oP0wy-A0)    
 [Swift](https://www.youtube.com/watch?v=n5X_V81OYnQ) - [in 100 seconds](https://www.youtube.com/watch?v=nAchMctX4YA)   
 [Dart](https://dart.dev/) - [in 100 seconds](https://www.youtube.com/watch?v=NrO0CJCbYLA)
+[Solidity](https://soliditylang.org) - Mobile Distributed App (DAPP) Backend
 
 ## Native 
 Native [Android Development](https://www.youtube.com/watch?v=fis26HvvDII) and [current trends](https://www.youtube.com/watch?v=qBkyU1TJKDg)   
